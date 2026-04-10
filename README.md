@@ -3,8 +3,8 @@
 # FAQ
 
 Q: What's this? <br>
-A: This is a music library for my discord bot, but you can use it freely. The files are in .mp3 format, and is organized by genres and type of playlists (folders).
-Q: Can I request a song or new playlist (folder)?
-A: Currently not, but I will open a Discord Server for the community to request.
-Q: Will you update it frequently?
-A: Forget it. I will update it when I have time, as this is a project.
+A: This is a music library for my discord bot, but you can use it freely. The files are in .mp3 format, and is organized by genres and type of playlists (folders).<br>
+Q: Can I request a song or new playlist (folder)?<br>
+A: Currently not, but I will open a Discord Server for the community to request.<br>
+Q: Will you update it frequently?<br>
+A: Forget it. I will update it when I have time, as this is a project.<br>
