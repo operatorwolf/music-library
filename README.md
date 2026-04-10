@@ -9,4 +9,6 @@ A: Currently not, but I will open a Discord Server for the community to request.
 Q: Will you update it frequently?<br>
 A: Forget it. I will update it when I have time, as this is a project.<br>
 Q: Can a song be in multiple playlists? <br>
-A: Yes, the songs are carefully organized by time, genre and vibe.
+A: Yes, the songs are carefully organized by time, genre and vibe. <br>
+Q: Why are there files called "placeholderfile" in certain folders? <br>
+A: They are there, so I don't have to suffer when uploading files.
