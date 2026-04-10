@@ -8,3 +8,5 @@ Q: Can I request a song or new playlist (folder)?<br>
 A: Currently not, but I will open a Discord Server for the community to request.<br>
 Q: Will you update it frequently?<br>
 A: Forget it. I will update it when I have time, as this is a project.<br>
+Q: Can a song be in multiple playlists? <br>
+A: Yes, the songs are carefully organized by time, genre and vibe.
